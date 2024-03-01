@@ -9,7 +9,7 @@
 <hr />
 <br />
 
-<h2 align="center">👨‍💻 Most Recent Work 👨‍💻</h2>
+<h2 align="center">Most Recent Work</h2>
 
 <br />
 
