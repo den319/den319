@@ -51,9 +51,9 @@
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="48" alt="css3 logo"  />
 <!--     <img width="6" /> -->
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="48" alt="java logo" />
-    <img src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" height="48" alt="java logo" />
+    <img src="https://shields.io/badge/PHP-3776AB?style=flat&logo=php" height="48" alt="java logo" />
     <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" height="48" alt="java logo" />
-    <img src="https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust" height="48" alt="java logo" />
+    <img src="https://shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=white" height="48" alt="java logo" />
 <!--     <img width="6" /> -->
     <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="48" alt="css3 logo"  />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="48" alt="react logo"  />
