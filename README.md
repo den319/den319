@@ -47,28 +47,34 @@
 
 <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="48" alt="javascript logo"  />
-    <img width="6" />
+<!--     <img width="6" /> -->
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="48" alt="css3 logo"  />
-    <img width="6" />
+<!--     <img width="6" /> -->
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="48" alt="java logo" />
-    <img width="6" />
+    <img src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" height="48" alt="java logo" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" height="48" alt="java logo" />
+    <img src="https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust" height="48" alt="java logo" />
+<!--     <img width="6" /> -->
     <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="48" alt="css3 logo"  />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="48" alt="react logo"  />
-    <img width="6" />
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="48" alt="next logo"  />
-    <img width="6" />
+<!--     <img width="6" /> -->
+    <img src="https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next.js&logoColor=black" height="48" alt="next logo"  />
+    <img src="https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel" height="48" alt="next logo"  />
+    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" height="48" alt="next logo"  />
+<!--     <img width="6" /> -->
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="48" alt="redux logo"  />
-    <img width="6" />
+<!--     <img width="6" /> -->
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="48" alt="tailwind logo"  />
-    <img width="6" />
+<!--     <img width="6" /> -->
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="48" alt="bootstrap logo"  />
-    <img width="6" />
+<!--     <img width="6" /> -->
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="48" alt="node logo"  />
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="48" alt="express logo"/>
-    <img width="6" />
+    <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="48" alt="node logo"  />
+<!--     <img width="6" /> -->
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="48" alt="mongodb logo"/>
-    <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="48" alt="mysql logo"  />
-    <img width="6" />
+    <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" height="48" alt="mysql logo"  />
+<!--     <img width="6" /> -->
     <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" height="48" alt="apollo logo"  />
 </div>
 
