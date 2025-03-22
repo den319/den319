@@ -1,14 +1,16 @@
 <h1 align="center">Hello!<br>My Name is Dharmik Vora</h1>
 
+<!--
 <h1> 💫 About Me:</h1>
 <h4>👯 I’m looking to collaborate on React</h4>
 <h4>🌱 I’m currently learning back-end development</h4>
 <h4>💬 Ask me about java, javascript, react</h4>
 <h4>📫 How to reach me voradharmik81@gamil.com</h4>
-
 <hr />
 <br />
+-->
 
+<!--
 <h2 align="center">Most Recent Work</h2>
 
 <br />
@@ -39,6 +41,7 @@
 <br />
 <br />
 <br />
+-->
 
 <h1>💻 Tech Stack:</h1>
 
